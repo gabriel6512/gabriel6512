@@ -1,8 +1,7 @@
-### Hi there 👋
-👋Ola, Meu nome é Cledson Gabryel sou programador de sistemas em contrução, sei um pouco de java e python apaixonado por tecnologia, educação e conhecimento!
-👀 Tenho interesse em trabalho remoto para o densenvolvimento de sites e lojas virtuais
-💞 Estou procurando colaborar em projetos que possam me prorpocionar desafios constantes
-🐱‍💻Como me encontrar cledsongabriiiel15@gmail.com me envia um email com sua ideia ou projetos que convesarmos
+- 👋Ola, Meu nome é Cledson Gabryel sou programador de sistemas em contrução, sei um pouco de java e python apaixonado por tecnologia, educação e conhecimento!
+- 👀 Tenho interesse em trabalho remoto para o densenvolvimento de sites e lojas virtuais
+- 💞 Estou procurando colaborar em projetos que possam me prorpocionar desafios constantes
+- 🐱‍💻Como me encontrar cledsongabriiiel15@gmail.com me envia um email com sua ideia ou projetos que convesarmos
 <!--
 **gabriel6512/gabriel6512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
